@@ -16,8 +16,8 @@ gibi farklı kategorilerde geliştirdiğim projeleri bulabilirsiniz.
 
 ## 📫 İletişim
 - GitHub: [@erdemhasbek](https://github.com/erdemhasbek)
-- E-posta: _hasbek22@itu.edu.tr_
-- 2.E-posta: _erdemhasbek.itu@gmail.com_
+- Kurumsal E-posta: _hasbek22@itu.edu.tr_
+- Kişisel E-posta: _erdemhasbek.itu@gmail.com_
 
 ---
 
