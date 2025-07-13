@@ -18,7 +18,8 @@ Bu proje; kullanıcının harf tahminleri yaparak gizli bir kelimeyi bulmaya ça
 
 ### 🔗 Canlı Demo
 Oyunu oynamak için:  
-👉 [Word Prediction Game - GitHub Pages](https://itu-itis24-hasbek22.github.io/projelerim/bbf101e_project/index.html)
+👉 [Word Prediction Game - GitHub Pages](https://erdemhasbek.github.io/projelerim/BBF101E%20Introduction%20to%20Information%20Systems%20Term%20Project/index.html
+)
 
 ---
 
@@ -40,7 +41,8 @@ This is a simple web-based word prediction game where the player tries to guess 
 
 ### 🔗 Live Demo
 Play the game here:  
-👉 [Word Prediction Game - GitHub Pages](https://itu-itis24-hasbek22.github.io/projelerim/bbf101e_project/index.html)
+👉 [Word Prediction Game - GitHub Pages](https://erdemhasbek.github.io/projelerim/BBF101E%20Introduction%20to%20Information%20Systems%20Term%20Project/index.html
+)
 
 ---
 
