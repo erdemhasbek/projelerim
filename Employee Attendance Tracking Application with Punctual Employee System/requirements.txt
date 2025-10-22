@@ -1,0 +1,9 @@
+No external libraries required.
+
+The project only uses Python Standard Library modules:
+
+datetime
+csv
+os
+collections
+
