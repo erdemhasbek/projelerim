@@ -56,15 +56,28 @@ The goal is to provide a simple yet powerful playground for experimenting with v
 
 ---
 
-## 📦 Installation & Local Setup
+# 📦 Installation & Local Setup
 
 Follow these steps to run the project locally:
 
-### 1. Clone the Repository
+## 1. Clone the Repository
 ```bash
 git clone https://github.com/erdemhasbek/150220305yzv211hw3.git
 cd 150220305yzv211hw3
+```
 
+## 2. Install Tools
+```bash
 pip install -r requirements.txt
+```
 
+## 3. Start the App
+```bash
 streamlit run app.py
+```
+
+## 👤 Author
+
+**Erdem Hasbek**  
+Artificial Intelligence and Data Engineering Student  
+Istanbul Technical University (ITU)
